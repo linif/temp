@@ -1,0 +1,6 @@
+input{
+  outline: none;
+}
+input.ng-invalid.ng-touched{
+  border: solid #ff0000 1px;
+}
